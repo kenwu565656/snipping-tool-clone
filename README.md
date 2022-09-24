@@ -7,13 +7,13 @@ This project is trying to clone the window snipping tool by python. It include t
 # product function
 
 ## Screenshot and save it
-![snipping_photo1](./screenshot_for_readme/snipping1)
+![snipping_photo1](./screenshot_for_readme/snipping1.PNG)
 
 ## Simple edit on the screenshot
-![snipping_photo2](./screenshot_for_readme/snipping2)
+![snipping_photo2](./screenshot_for_readme/snipping2.PNG)
 
 ## Customize setting on the product
-![snipping_photo3](./screenshot_for_readme/snipping3)
+![snipping_photo3](./screenshot_for_readme/snipping3.PNG)
 
 # Thank you for reading this repo
 
